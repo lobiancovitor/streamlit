@@ -6,6 +6,9 @@ st.set_page_config(
     page_title="Screener"
 )
 
+if st.button("click me"):
+    st.write("Hello")
+
 st.write("""## Market Screener""")
 
 st.sidebar.header("Indicators")
