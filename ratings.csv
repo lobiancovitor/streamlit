@@ -1,231 +1,289 @@
 Ticker,Master Score,Fundamental Rating,RS Rating,A/D Rating,Industry Group,Ind Group Rank
-CURY3,A+,A+,94,A,Construção civil,13
-WEGE3,A+,A+,94,A+,Máquinas e equipamentos,15
-EALT4,A+,A,95,A+,Máquinas e equipamentos,15
-CSMG3,A+,A,93,A+,Água e saneamento,1
-CAMB3,A+,A,86,A,Vestuário e calçados,18
-FRAS3,A+,B+,85,A+,Material de transporte,5
-DIRR3,A+,B+,95,A,Construção civil,13
-PLPL3,A+,A+,68,A,Construção civil,13
-EKTR4,A+,B+,90,A,Energia elétrica,14
-CGAS5,A,B,81,A,Gás,3
-GUAR3,A,B,90,A,Comércio,10
-PORT3,A,A,77,A,Transporte,28
-TGMA3,A,A,76,A+,Transporte,28
-ITSA4,A,B,82,A,Intermediários financeiros,9
-CTKA4,A,B,81,A+,Vestuário e calçados,18
-CMIG4,A,B,94,A,Energia elétrica,14
-CMIN3,A,A,75,A,Mineração,2
-VULC3,A,A,67,A+,Vestuário e calçados,18
-TECN3,A,B,91,A+,Vestuário e calçados,18
-CXSE3,A,B,85,A+,Previdência e seguros,16
-LREN3,A,B,84,A,Comércio,10
-MDNE3,A,B,91,A+,Construção civil,13
-EGIE3,A,B+,67,A,Energia elétrica,14
-BMEB4,A,C+,99,A+,Intermediários financeiros,9
-RDOR3,A,C+,88,A,Serviços médico-hospitalares,7
-RADL3,A,A+,56,A,Comércio e distribuição,25
-REDE3,A,B+,70,A,Energia elétrica,14
-SBFG3,A,C+,98,A,Comércio,10
-VBBR3,A,C+,88,A+,Petróleo gás e biocombustíveis,17
-MNDL3,A,C+,89,A+,Vestuário e calçados,18
-MULT3,A,B+,62,A,Exploração de imóveis,4
-POMO4,A,B+,84,B,Material de transporte,5
-VIVA3,A,B+,66,A,Vestuário e calçados,18
-GMAT3,A,B,65,A,Comércio e distribuição,25
-SBSP3,A,C,92,A,Água e saneamento,1
-LAVV3,A,B,60,A,Construção civil,13
-AMBP3,A,C,99,A+,Água e saneamento,1
-CPFE3,A,B,65,A+,Energia elétrica,14
-ABEV3,A,B,61,A+,Bebidas,24
-KEPL3,A,A,69,B,Máquinas e equipamentos,15
-CLSA3,A,C,98,A,Serviços financeiros,11
-BMGB4,A,C,93,A+,Intermediários financeiros,9
-AURA33,A,C,97,A+,Mineração,2
-PFRM3,A,C,88,A,Comércio e distribuição,25
-EMBR3,A,C,99,A+,Material de transporte,5
-BBSE3,A,C,82,A+,Previdência e seguros,16
-TTEN3,A,B,73,A,Agropecuária,19
-FIQE3,A,A,55,A,Telecomunicações,22
-FLRY3,A,B,76,A+,Serviços médico-hospitalares,7
-BOBR4,A,B,63,A,Produtos de uso pessoal,23
-TIMS3,A,C+,75,A,Telecomunicações,22
-PETZ3,A,C+,79,A,Comércio,10
-GOAU4,A,C+,62,A,Siderurgia e metalurgia,21
-HETA4,B,C,74,A+,Utilidades domésticas,12
-DMVF3,B,B,76,B,Comércio e distribuição,25
-EUCA4,B,B,74,B,Madeira e papel,20
-MRFG3,B,C,97,B,Alimentos processados,6
-MNPR3,B,C,71,A,Alimentos processados,6
-ALLD3,B,C,91,B,Comércio,10
-AGRO3,B,C,63,A,Agropecuária,19
-ALUP11,B,C,71,A,Energia elétrica,14
-BLAU3,B,C,69,A,Comércio e distribuição,25
-SHUL4,B,B,55,A,Máquinas e equipamentos,15
-BPAC11,B,C,64,A,Intermediários financeiros,9
-BEES3,B,C,64,A,Intermediários financeiros,9
-CEDO4,B,C,60,A+,Vestuário e calçados,18
-CAML3,B,C,68,A,Alimentos processados,6
-WLMM4,B,B,61,B,Comércio,10
-BAZA3,B,C,79,A,Intermediários financeiros,9
-MERC4,B,D,89,A+,Intermediários financeiros,9
-SYNE3,B,D,99,A,Exploração de imóveis,4
-TFCO4,B,A+,34,B,Vestuário e calçados,18
-GGBR4,B,C+,53,A,Siderurgia e metalurgia,21
-PATI3,B,D,86,A+,Siderurgia e metalurgia,21
-JBSS3,B,D,96,A,Alimentos processados,6
-EQTL3,B,C+,72,B,Energia elétrica,14
-RCSL3,B,D,96,A+,Material de transporte,5
-PETR4,B,B+,80,C,Petróleo gás e biocombustíveis,17
-WIZC3,B,B+,48,A,Previdência e seguros,16
-PRIO3,B,A+,39,B,Petróleo gás e biocombustíveis,17
-MWET4,B,D,82,A+,Material de transporte,5
-BRFS3,B,D,97,A+,Alimentos processados,6
-VITT3,B,B,28,A,Químicos,31
-TOTS3,B,A,45,B,Programas e serviços,26
-PTNT4,B,C,51,A,Vestuário e calçados,18
-BMOB3,B,C,79,B,Programas e serviços,26
-BEEF3,B,B,51,B,Alimentos processados,6
-UGPA3,B,B,57,B,Petróleo gás e biocombustíveis,17
-CCRO3,B,C,58,A+,Transporte,28
-VAMO3,B,B,32,A,Diversos,30
-BRSR6,B,C,56,A,Intermediários financeiros,9
-ORVR3,B,D+,87,B,Água e saneamento,1
-RSUL4,B,B,36,A,Material de transporte,5
-ROMI3,B,B,47,A,Máquinas e equipamentos,15
-ENGI11,C,C+,55,B,Energia elétrica,14
-PGMN3,C,D,70,A,Comércio e distribuição,25
-RPMG3,C,E,92,A,Petróleo gás e biocombustíveis,17
-HOOT4,C,C+,37,A,Hotéis e restaurantes,29
-TEND3,C,D,64,A,Construção civil,13
-ABCB4,C,D,73,A,Intermediários financeiros,9
-JHSF3,C,D,66,A+,Construção civil,13
-JSLG3,C,C+,44,A,Transporte,28
-MBLY3,C,D,77,A+,Programas e serviços,26
-NGRD3,C,D+,59,A+,Programas e serviços,26
-PDTC3,C,C,19,A,Programas e serviços,26
-NINJ3,C,C,49,A,Programas e serviços,26
-LOGN3,C,C,36,A,Transporte,28
-CSUD3,C,C,52,B,Serviços financeiros,11
-ESTR4,C,C,14,A+,Viagens e lazer,32
-CGRA4,C,C,52,B,Comércio,10
-DXCO3,C,C,58,B,Madeira e papel,20
-CEAB3,C,B,83,D,Comércio,10
-ATOM3,C,D,59,A+,Outros,27
-CASH3,C,E,87,B,Programas e serviços,26
-ENEV3,C,D,67,B,Energia elétrica,14
-ESPA3,C,C+,41,B,Comércio,10
-OPCT3,C,C+,73,C,Petróleo gás e biocombustíveis,17
-HAPV3,C,E,72,A,Serviços médico-hospitalares,7
-VVEO3,C,C+,2,B,Comércio e distribuição,25
-TRIS3,C,C+,41,B,Construção civil,13
-PRNR3,C,C+,78,C,Serviços diversos,8
-KLBN11,C,C+,70,C,Madeira e papel,20
-LJQQ3,D,C,26,B,Comércio,10
-COCE5,D,C,21,B,Energia elétrica,14
-GOLL4,D,C,5,B,Transporte,28
-LOGG3,D,C,61,C,Exploração de imóveis,4
-EPAR3,D,C,13,B,Comércio,10
-FRIO3,D,C,6,B,Máquinas e equipamentos,15
-QUAL3,D,C,34,B,Serviços médico-hospitalares,7
-BAHI3,D,C,40,B,Diversos,30
-RAIL3,D,D+,52,B,Transporte,28
-ETER3,D,C,18,B,Construção e engenharia,40
-NUTR3,D,C+,53,C,Químicos,31
-RANI3,D,B+,23,C,Embalagens,40
-PNVL3,D,B+,33,C,Comércio e distribuição,25
-MRVE3,D,D,43,A,Construção civil,13
-KRSA3,D,D,15,A+,Serviços médico-hospitalares,7
-CRPG5,D,D,24,A,Químicos,31
-MEAL3,D,D,29,A,Hotéis e restaurantes,29
-INTB3,D,B+,46,C,Computadores e equipamentos,40
-BDLL4,D,E,58,A+,Máquinas e equipamentos,15
-RAPT4,D,C,54,C,Material de transporte,5
-PTBL3,D,B,40,C,Construção e engenharia,40
-MDIA3,D,B,16,C,Alimentos processados,6
-NTCO3,D,B,25,C,Produtos de uso pessoal,23
-SUZB3,D,C,57,C,Madeira e papel,20
-DESK3,D,C,50,C,Telecomunicações,22
-WHRL4,D,C,54,C,Utilidades domésticas,12
-HYPE3,D,B,28,C,Comércio e distribuição,25
-SMFT3,D,B,48,C,Viagens e lazer,32
-FIEI3,E,E,15,A+,Construção civil,13
-TPIS3,E,D,80,D,Transporte,28
-RDNI3,E,E,18,A,Construção civil,13
-DEXP3,E,B+,19,D,Químicos,31
-MTSA4,E,C+,37,C,Máquinas e equipamentos,15
-ZAMP3,E,C+,12,C,Hotéis e restaurantes,29
-RAIZ4,E,D,39,B,Agropecuária,19
-WEST3,E,E,10,A,Programas e serviços,26
-PCAR3,E,D,22,B,Comércio e distribuição,25
-ONCO3,E,C+,7,C,Serviços médico-hospitalares,7
-NEXP3,E,C+,27,C,Exploração de imóveis,4
-TELB4,E,E,31,A,Telecomunicações,22
-BRAP4,E,D,38,B,Mineração,2
-FESA4,E,D,27,B,Siderurgia e metalurgia,21
-SLCE3,E,B,42,D,Agropecuária,19
-SCAR3,E,C,49,C,Exploração de imóveis,4
-SOJA3,E,C,21,C,Agropecuária,19
-SRNA3,E,C,42,C,Energia elétrica,14
-RENT3,E,C,24,C,Diversos,30
-RECV3,E,C,48,C,Petróleo gás e biocombustíveis,17
-CRFB3,E,C,30,C,Comércio e distribuição,25
-EZTC3,E,C,27,C,Construção civil,13
-VSTE3,E,C,23,C,Comércio,10
-MELK3,E,C,24,C,Construção civil,13
-POSI3,E,A,16,E,Computadores e equipamentos,40
-MATD3,E,C,14,C,Serviços médico-hospitalares,7
-ANIM3,E,C,39,C,Diversos,30
-BIOM3,E,E,83,D,Medicamentos e outros produtos,40
-MGLU3,E,C+,11,D,Comércio,10
-GRND3,E,C+,44,D,Vestuário e calçados,18
-SMTO3,E,C+,30,D,Alimentos processados,6
-BRIT3,E,C,33,D,Telecomunicações,22
-BHIA3,E,C,8,D,Comércio,10
-LVTC3,E,D+,45,C,Programas e serviços,26
-JALL3,E,C,33,D,Alimentos processados,6
-SIMH3,E,C,21,D,Holdings diversificadas,40
-VALE3,E,C,38,D,Mineração,2
-UNIP6,E,B,20,E,Químicos,31
-ARML3,E,C,11,D,Máquinas e equipamentos,15
-DOTZ3,E,C,43,D,Diversos,30
-CSNA3,E,D,26,C,Siderurgia e metalurgia,21
-HBRE3,E,D,47,C,Exploração de imóveis,4
-BMKS3,E,E,50,C,Viagens e lazer,32
-USIM5,E,D,13,C,Siderurgia e metalurgia,21
-MYPK3,E,D,45,C,Automóveis e motocicletas,40
-RNEW4,E,D,35,C,Energia elétrica,14
-YDUQ3,E,C+,6,E,Diversos,30
-AERI3,E,D,29,C,Máquinas e equipamentos,15
-ALPK3,E,D,31,C,Serviços diversos,8
-DASA3,E,D,3,C,Serviços médico-hospitalares,7
-CSAN3,E,D,25,C,Petróleo gás e biocombustíveis,17
-ASAI3,E,C,12,E,Comércio e distribuição,25
-SHOW3,E,C,3,E,Viagens e lazer,32
-AZUL4,E,D,2,D,Transporte,28
-ATMP3,E,E,5,C,Serviços diversos,8
-TRAD3,E,E,3,C,Programas e serviços,26
-AZEV4,E,E,35,C,Construção e engenharia,40
-RSID3,E,E,36,C,Construção civil,13
-COGN3,E,D,6,D,Diversos,30
-LWSA3,E,D,22,D,Programas e serviços,26
-CTSA4,E,D,30,D,Vestuário e calçados,18
-EMAE4,E,D,8,D,Energia elétrica,14
-ENJU3,E,D,20,D,Programas e serviços,26
-FHER3,E,E,17,C,Químicos,31
-HBOR3,E,D,17,D,Construção civil,13
-HBSA3,E,D,42,D,Transporte,28
-LUPA3,E,D,15,D,Petróleo gás e biocombustíveis,17
-LAND3,E,D,9,D,Agropecuária,19
-INEP3,E,E,7,C,Máquinas e equipamentos,15
-AMER3,E,E,1,D,Comércio,10
-OSXB3,E,E,32,D,Petróleo gás e biocombustíveis,17
-AGXY3,E,E,9,D,Agropecuária,19
-VIVR3,E,E,12,D,Construção civil,13
-IFCM3,E,E,1,D,Programas e serviços,26
-TCSA3,E,E,9,D,Construção civil,13
-SEQL3,E,D,10,E,Serviços diversos,8
-MLAS3,E,E,18,D,Computadores e equipamentos,40
-JFEN3,E,E,1,E,Construção civil,13
-PMAM3,E,E,4,E,Siderurgia e metalurgia,21
-GFSA3,E,E,4,E,Construção civil,13
+PLPL3,A+,A+,88,A,Construção civil,10
+WEGE3,A+,A+,96,A,Máquinas e equipamentos,7
+PSSA3,A+,A,93,A+,Previdência e seguros,9
+EALT4,A+,A,97,A,Máquinas e equipamentos,7
+CAMB3,A+,A,87,A,Vestuário e calçados,23
+CMIN3,A+,A,88,A,Mineração,2
+CSMG3,A+,A,87,A,Água e saneamento,3
+EKTR4,A+,B+,92,A,Energia elétrica,18
+POMO4,A+,B+,90,A,Material de transporte,20
+FRAS3,A+,B+,88,A,Material de transporte,20
+FIQE3,A,A,70,A,Telecomunicações,15
+LREN3,A,B,89,A,Comércio,11
+TGMA3,A,A,75,A,Transporte,12
+BOBR4,A,B,83,A,Produtos de uso pessoal,6
+ITSA4,A,B,80,A,Intermediários financeiros,14
+GGPS3,A,A,64,A,Serviços diversos,8
+MDNE3,A,B,91,A,Construção civil,10
+PORT3,A,A,71,A,Transporte,12
+VIVT3,A,B,82,A,Telecomunicações,15
+VULC3,A,A,68,A,Vestuário e calçados,23
+WLMM4,A,B,84,A,Comércio,11
+MULT3,A,B+,66,A,Exploração de imóveis,22
+DIRR3,A,B+,95,B,Construção civil,10
+ODPV3,A,A+,67,B,Serviços médico-hospitalares,19
+MNDL3,A,C+,93,A+,Vestuário e calçados,23
+PETZ3,A,C+,89,A,Comércio,11
+BMEB4,A,C+,99,A,Intermediários financeiros,14
+REDE3,A,B+,70,A,Energia elétrica,18
+VIVA3,A,B+,77,A,Vestuário e calçados,23
+CMIG4,A,B,95,B,Energia elétrica,18
+TTEN3,A,B,62,A,Agropecuária,25
+PINE4,A,C,92,A,Intermediários financeiros,14
+BPAN4,A,C,82,A,Intermediários financeiros,14
+MNPR3,A,C,85,A+,Alimentos processados,4
+AURA33,A,C,99,A,Mineração,2
+ESTR4,A,C,98,A+,Viagens e lazer,1
+BBDC4,A,C,81,A+,Intermediários financeiros,14
+DXCO3,A,C,81,A,Madeira e papel,16
+BMGB4,A,C,95,A,Intermediários financeiros,14
+CLSC4,A,C,90,A,Energia elétrica,18
+VLID3,A,B,96,B,Serviços diversos,8
+ABEV3,A,B,74,A,Bebidas,17
+CTKA4,A,B,60,A+,Vestuário e calçados,23
+AMBP3,A,C,99,A+,Água e saneamento,3
+EMBR3,A,C,99,A,Material de transporte,20
+CLSA3,A,C,99,A,Serviços financeiros,21
+PRIO3,A,A+,57,B,Petróleo gás e biocombustíveis,13
+SAPR4,A,B+,79,B,Água e saneamento,3
+GGBR4,A,C+,72,A,Siderurgia e metalurgia,30
+TIMS3,A,C+,73,A,Telecomunicações,15
+WIZC3,A,B+,61,B,Previdência e seguros,9
+RDOR3,A,C+,84,B,Serviços médico-hospitalares,19
+CURY3,A,A+,89,C,Construção civil,10
+ITUB4,B,C,80,B,Intermediários financeiros,14
+CPFE3,B,B,52,A,Energia elétrica,18
+CEEB3,B,B,64,B,Energia elétrica,18
+CPLE6,B,C,74,A,Energia elétrica,18
+EUCA4,B,B,68,B,Madeira e papel,16
+CGRA4,B,C,60,A,Comércio,11
+CXSE3,B,B,76,B,Previdência e seguros,9
+CEDO4,B,C,67,A+,Vestuário e calçados,23
+PFRM3,B,C,79,A,Comércio e distribuição,24
+SANB11,B,C,69,A,Intermediários financeiros,14
+CAML3,B,C,67,A,Alimentos processados,4
+BBSE3,B,C,76,A,Previdência e seguros,9
+GMAT3,B,B,62,B,Comércio e distribuição,24
+BEES3,B,C,66,A,Intermediários financeiros,14
+GUAR3,B,B,78,B,Comércio,11
+AESB3,B,C,74,A+,Energia elétrica,18
+BGIP4,B,C,78,A,Intermediários financeiros,14
+BMIN4,B,C,69,A+,Intermediários financeiros,14
+BALM4,B,B,59,A+,Equipamentos,27
+VBBR3,B,C+,71,B,Petróleo gás e biocombustíveis,13
+MILS3,B,A+,42,B,Máquinas e equipamentos,7
+NORD3,B,D,90,A,Máquinas e equipamentos,7
+MWET4,B,D,84,A+,Material de transporte,20
+STBP3,B,A+,94,D,Transporte,12
+BRFS3,B,D,98,A,Alimentos processados,4
+IRBR3,B,D,86,A,Previdência e seguros,9
+GEPA4,B,D,91,A+,Energia elétrica,18
+ATOM3,B,D,85,A,Outros,5
+WHRL4,B,C,68,B,Utilidades domésticas,31
+BAZA3,B,C,55,A,Intermediários financeiros,14
+CYRE3,B,C,59,A,Construção civil,10
+EVEN3,B,C,73,B,Construção civil,10
+TECN3,B,B,83,C,Vestuário e calçados,23
+BLAU3,B,C,63,B,Comércio e distribuição,24
+B3SA3,B,B,38,A,Serviços financeiros,21
+BNBR3,B,C,55,A+,Intermediários financeiros,14
+BRBI11,B,C,75,B,Intermediários financeiros,14
+RSUL4,B,B,30,A,Material de transporte,20
+FLRY3,B,B,56,B,Serviços médico-hospitalares,19
+NEOE3,B,B,57,B,Energia elétrica,18
+NGRD3,B,D+,73,A+,Programas e serviços,28
+NINJ3,B,C,53,A,Programas e serviços,28
+EQPA3,B,A,34,B,Energia elétrica,18
+LIGT3,C,D,87,B,Energia elétrica,18
+JBSS3,C,D,97,B,Alimentos processados,4
+HOOT4,C,C+,31,A,Hotéis e restaurantes,34
+NUTR3,C,C+,58,B,Químicos,29
+AALR3,C,D,94,B,Serviços médico-hospitalares,19
+TPIS3,C,D,97,B,Transporte,12
+PLAS3,C,D,62,A,Automóveis e motocicletas,25
+SYNE3,C,D,98,B,Exploração de imóveis,22
+RPMG3,C,E,93,A,Petróleo gás e biocombustíveis,13
+JHSF3,C,D,65,A,Construção civil,10
+TUPY3,C,C+,47,A,Material de transporte,20
+SEER3,C,C+,49,A,Diversos,32
+EGIE3,C,B+,63,C,Energia elétrica,18
+PETR4,C,B+,81,D,Petróleo gás e biocombustíveis,13
+DOHL4,C,C,38,A,Vestuário e calçados,23
+PTNT4,C,C,35,A,Vestuário e calçados,23
+QUAL3,C,C,54,B,Serviços médico-hospitalares,19
+BPAC11,C,C,54,B,Intermediários financeiros,14
+TOTS3,C,A,53,C,Programas e serviços,28
+CEAB3,C,B,80,D,Comércio,11
+CCRO3,C,C,44,A,Transporte,12
+PDTC3,C,C,22,A,Programas e serviços,28
+MGEL4,C,C,16,A,Siderurgia e metalurgia,30
+SBSP3,C,C,86,C,Água e saneamento,3
+OFSA3,C,C,44,A,Medicamentos e outros produtos,33
+UCAS3,C,C+,36,B,Utilidades domésticas,31
+TFCO4,C,A+,31,C,Vestuário e calçados,23
+TEND3,C,D,76,B,Construção civil,10
+BRKM5,C,D,54,A,Químicos,29
+RCSL3,C,D,57,A+,Material de transporte,20
+MRVE3,C,D,56,A,Construção civil,10
+GOAU4,C,C+,72,C,Siderurgia e metalurgia,30
+OPCT3,C,C+,78,C,Petróleo gás e biocombustíveis,13
+SBFG3,C,C+,92,D,Comércio,11
+CASH3,C,E,85,B,Programas e serviços,28
+ESPA3,C,C+,38,B,Comércio,11
+RADL3,C,A+,46,C,Comércio e distribuição,24
+NEXP3,C,C+,34,B,Exploração de imóveis,22
+MRFG3,D,C,96,D,Alimentos processados,4
+VALE3,D,C,65,C,Mineração,2
+MATD3,D,C,18,B,Serviços médico-hospitalares,19
+LOGG3,D,C,71,C,Exploração de imóveis,22
+ROMI3,D,B,51,C,Máquinas e equipamentos,7
+SCAR3,D,C,43,B,Exploração de imóveis,22
+SUZB3,D,C,60,C,Madeira e papel,16
+LAVV3,D,B,51,C,Construção civil,10
+KEPL3,D,A,48,C,Máquinas e equipamentos,7
+DESK3,D,C,48,B,Telecomunicações,15
+ETER3,D,C,24,B,Construção e engenharia,40
+GOLL4,D,C,4,B,Transporte,12
+BMOB3,D,C,75,C,Programas e serviços,28
+ALLD3,D,C,79,C,Comércio,11
+BBAS3,D,C,69,C,Intermediários financeiros,14
+TAEE11,D,C+,63,D,Energia elétrica,18
+PRNR3,D,C+,77,D,Serviços diversos,8
+PNVL3,D,B+,40,C,Comércio e distribuição,24
+BRAP4,D,D,56,B,Mineração,2
+BSLI3,D,D,35,A,Intermediários financeiros,14
+AVLL3,D,D,30,A+,Construção civil,10
+TRIS3,D,C+,52,C,Construção civil,10
+MBLY3,D,D,40,A+,Programas e serviços,28
+KLBN11,D,C+,65,D,Madeira e papel,16
+KRSA3,D,D,8,A,Serviços médico-hospitalares,19
+RANI3,D,B+,25,C,Embalagens,40
+INTB3,D,B+,58,D,Computadores e equipamentos,40
+UGPA3,D,B,37,C,Petróleo gás e biocombustíveis,13
+DMVF3,D,B,53,D,Comércio e distribuição,24
+NTCO3,D,B,47,C,Produtos de uso pessoal,6
+AGRO3,D,C,52,C,Agropecuária,25
+LEVE3,D,A,37,D,Automóveis e motocicletas,25
+BEEF3,D,B,36,C,Alimentos processados,4
+ALUP11,D,C,61,D,Energia elétrica,18
+CSUD3,D,C,50,C,Serviços financeiros,21
+ORVR3,D,D+,86,D,Água e saneamento,3
+VITT3,D,B,29,C,Químicos,29
+HYPE3,D,B,36,C,Comércio e distribuição,24
+MDIA3,D,B,24,C,Alimentos processados,4
+SHUL4,D,B,46,C,Máquinas e equipamentos,7
+PDGR3,E,E,1,A,Construção civil,10
+PGMN3,E,D,46,B,Comércio e distribuição,24
+EQTL3,E,C+,55,D,Energia elétrica,18
+ENEV3,E,D,77,C,Energia elétrica,18
+RNEW4,E,D,41,B,Energia elétrica,18
+FESA4,E,D,25,B,Siderurgia e metalurgia,30
+RAIZ4,E,D,43,B,Agropecuária,25
+FIEI3,E,E,23,A,Construção civil,10
+HAPV3,E,E,48,A,Serviços médico-hospitalares,19
+VVEO3,E,C+,2,C,Comércio e distribuição,24
+TXRX4,E,E,42,A+,Vestuário e calçados,23
+MAPT4,E,E,7,A+,Outros,5
+TELB4,E,E,44,A,Telecomunicações,15
+DEXP3,E,B+,26,D,Químicos,29
+EPAR3,E,C,13,C,Comércio,11
+MTRE3,E,C,32,C,Construção civil,10
+SLCE3,E,B,49,D,Agropecuária,25
+MELK3,E,C,34,C,Construção civil,10
+COCE5,E,C,19,C,Energia elétrica,18
+SMFT3,E,B,41,D,Viagens e lazer,1
+FRIO3,E,C,17,C,Máquinas e equipamentos,7
+VAMO3,E,B,9,D,Diversos,32
+LPSB3,E,B,32,D,Exploração de imóveis,22
+CSED3,E,B,21,D,Diversos,32
+EZTC3,E,C,37,C,Construção civil,10
+POSI3,E,A,18,E,Computadores e equipamentos,40
+PTBL3,E,B,24,D,Construção e engenharia,40
+ABCB4,E,D,50,C,Intermediários financeiros,14
+JSLG3,E,C+,12,D,Transporte,12
+RDNI3,E,E,27,B,Construção civil,10
+CBAV3,E,E,82,D,Mineração,2
+BIOM3,E,E,91,D,Medicamentos e outros produtos,33
+TRAD3,E,E,45,B,Programas e serviços,28
+TRPL4,E,C+,45,D,Energia elétrica,18
+WEST3,E,E,14,B,Programas e serviços,28
+SMTO3,E,C+,40,D,Alimentos processados,4
+ZAMP3,E,C+,9,D,Hotéis e restaurantes,34
+MTSA4,E,C+,26,D,Máquinas e equipamentos,7
+GRND3,E,C+,39,D,Vestuário e calçados,23
+ECOR3,E,C+,35,D,Transporte,12
+ELET3,E,D,58,C,Energia elétrica,18
+ONCO3,E,C+,5,D,Serviços médico-hospitalares,19
+ENGI11,E,C+,43,D,Energia elétrica,18
+OSXB3,E,E,64,C,Petróleo gás e biocombustíveis,13
+MOVI3,E,C,14,D,Diversos,32
+SRNA3,E,C,33,D,Energia elétrica,18
+TASA4,E,C,20,D,Máquinas e equipamentos,7
+BAHI3,E,C,19,D,Diversos,32
+ARML3,E,C,13,D,Máquinas e equipamentos,7
+BRSR6,E,C,41,D,Intermediários financeiros,14
+LVTC3,E,D+,51,D,Programas e serviços,28
+UNIP6,E,B,22,E,Químicos,29
+CRFB3,E,C,15,D,Comércio e distribuição,24
+RENT3,E,C,23,D,Diversos,32
+ANIM3,E,C,13,D,Diversos,32
+RECV3,E,C,45,D,Petróleo gás e biocombustíveis,13
+LOGN3,E,C,27,D,Transporte,12
+VSTE3,E,C,14,D,Comércio,11
+ELMD3,E,C,47,D,Mídia,40
+RAPT4,E,C,33,D,Material de transporte,20
+LJQQ3,E,C,10,D,Comércio,11
+DOTZ3,E,C,18,D,Diversos,32
+JALL3,E,C,27,D,Alimentos processados,4
+SOJA3,E,C,28,D,Agropecuária,25
+USIM5,E,D,21,C,Siderurgia e metalurgia,30
+MEAL3,E,D,25,C,Hotéis e restaurantes,34
+MGLU3,E,C+,6,E,Comércio,11
+DASA3,E,D,6,C,Serviços médico-hospitalares,19
+YDUQ3,E,C+,10,E,Diversos,32
+CSNA3,E,D,49,C,Siderurgia e metalurgia,30
+CTSA4,E,D,26,C,Vestuário e calçados,23
+BRIT3,E,C,22,E,Telecomunicações,15
+SHOW3,E,C,3,E,Viagens e lazer,1
+RAIL3,E,D+,33,D,Transporte,12
+ASAI3,E,C,4,E,Comércio e distribuição,24
+CVCB3,E,C,17,E,Viagens e lazer,1
+BHIA3,E,C,7,E,Comércio,11
+SIMH3,E,C,11,E,Holdings diversificadas,40
+ATMP3,E,E,8,C,Serviços diversos,8
+CSAN3,E,D,31,D,Petróleo gás e biocombustíveis,13
+ALPA4,E,D,20,D,Vestuário e calçados,23
+AMAR3,E,D,5,D,Comércio,11
+LUPA3,E,D,23,D,Petróleo gás e biocombustíveis,13
+CRPG5,E,D,19,D,Químicos,29
+LAND3,E,D,29,D,Agropecuária,25
+RSID3,E,E,16,C,Construção civil,10
+MYPK3,E,D,32,D,Automóveis e motocicletas,25
+LWSA3,E,D,20,D,Programas e serviços,28
+EMAE4,E,D,11,D,Energia elétrica,18
+PCAR3,E,D,39,D,Comércio e distribuição,24
+IFCM3,E,E,1,C,Programas e serviços,28
+HBSA3,E,D,30,D,Transporte,12
+AURE3,E,D,28,D,Energia elétrica,18
+ENJU3,E,D,12,D,Programas e serviços,28
+AZEV4,E,E,12,C,Construção e engenharia,40
+AZUL4,E,D,3,D,Transporte,12
+SEQL3,E,D,11,D,Serviços diversos,8
+HBRE3,E,D,29,D,Exploração de imóveis,22
+HBOR3,E,D,16,D,Construção civil,10
+ALPK3,E,D,10,D,Serviços diversos,8
+AERI3,E,D,7,E,Máquinas e equipamentos,7
+AGXY3,E,E,1,D,Agropecuária,25
+JFEN3,E,E,2,D,Construção civil,10
+BMKS3,E,E,42,D,Viagens e lazer,1
+FHER3,E,E,15,D,Químicos,29
+VIVR3,E,E,5,D,Construção civil,10
+INEP3,E,E,8,D,Máquinas e equipamentos,7
+COGN3,E,D,4,E,Diversos,32
+OIBR3,E,E,21,D,Telecomunicações,15
+MLAS3,E,E,15,D,Computadores e equipamentos,40
+PMAM3,E,E,3,E,Siderurgia e metalurgia,30
+AMER3,E,E,1,E,Comércio,11
+TCSA3,E,E,9,E,Construção civil,10
+GFSA3,E,E,2,E,Construção civil,10
